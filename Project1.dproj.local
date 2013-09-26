@@ -1,18 +1,27 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
-    <Transaction>1899.12.30 00:00:00.000.889,C:\Users\TEMP\Documents\GitHub\Pascal-School-DB\Unit1.dfm=C:\Users\TEMP\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.797,C:\git\Pascal-School-DB\project.dfm=C:\Users\TEMP\Documents\GitHub\Pascal-School-DB\Unit1.dfm</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.797,C:\git\Pascal-School-DB\project.pas=C:\Users\TEMP\Documents\GitHub\Pascal-School-DB\Unit1.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.536,C:\git\Pascal-School-DB\Project1.dproj=C:\Users\TEMP\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.885,C:\Users\TEMP\Documents\GitHub\Pascal-School-DB\sqlite3udf.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.370,=C:\Users\TEMP\Documents\GitHub\Pascal-School-DB\sqlite3udf.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.889,C:\Users\TEMP\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\TEMP\Documents\GitHub\Pascal-School-DB\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.399,=C:\Users\TEMP\Documents\GitHub\Pascal-School-DB\SQLiteTable3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.797,C:\Users\TEMP\Documents\GitHub\Pascal-School-DB\Unit1.dfm=C:\git\Pascal-School-DB\project.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.574,=C:\Users\TEMP\Documents\GitHub\Pascal-School-DB\sqlite3.dll</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.331,=C:\Users\TEMP\Documents\GitHub\Pascal-School-DB\SQLite3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.536,C:\Users\TEMP\Documents\RAD Studio\Projects\Project1.dproj=C:\git\Pascal-School-DB\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.665,=C:\Users\TEMP\Documents\GitHub\Pascal-School-DB\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.732,=C:\Users\TEMP\Documents\GitHub\Pascal-School-DB\Unit2.pas</Transaction>
     <Transaction>1899.12.30 00:00:00.000.013,=C:\Users\TEMP\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.889,C:\Users\TEMP\Documents\GitHub\Pascal-School-DB\Unit1.pas=C:\Users\TEMP\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2013.09.19 09:17:41.732,=C:\Users\TEMP\Documents\GitHub\Pascal-School-DB\Unit2.pas</Transaction>
-    <Transaction>2013.09.19 10:04:56.665,=C:\Users\TEMP\Documents\GitHub\Pascal-School-DB\Unit2.pas</Transaction>
-  </Transactions>  <ProjectSortOrder AutoSort="0" SortType="0">
+    <Transaction>1899.12.30 00:00:00.000.889,C:\Users\TEMP\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\TEMP\Documents\GitHub\Pascal-School-DB\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.797,C:\Users\TEMP\Documents\GitHub\Pascal-School-DB\Unit1.pas=C:\git\Pascal-School-DB\project.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
     <File Path="project.pas"/>
     <File Path="project.dfm"/>
     <File Path="Unit2.pas"/>
     <File Path="Unit2.dfm"/>
+    <File Path="SQLite3.pas"/>
+    <File Path="SQLiteTable3.pas"/>
+    <File Path="sqlite3.dll"/>
   </ProjectSortOrder>
 </BorlandProject>

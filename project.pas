@@ -25,9 +25,14 @@ implementation
 
 {$R *.dfm}
 
+uses Unit2;
+
 procedure TForm1.Button1Click(Sender: TObject);
 begin
-//Application.CreateForm(TForm2, Form2);
+//Application.MessageBox('Ķipa tu atradi','title',MB_OK);
+//TForm2.CreateNew(Sender as TControl); //it kā kompilējas, bet formu neizveido
+//Unit2.Form2.Enabled := true;
+Unit2.Form2.Show;
 end;
 
 procedure TForm1.FormCreate(Sender: TObject);
